@@ -1,0 +1,10 @@
+{
+  "name": "devkit-commands",
+  "version": "0.0.0",
+  "dependencies": {
+    "devkit-logging": "^1.0.0",
+    "lazy-cache": "^1.0.3",
+    "yargs": "^3.32.0",
+    "printf": "^0.2.3"
+  }
+}
